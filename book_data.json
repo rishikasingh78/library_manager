@@ -1,0 +1,14 @@
+[
+    {
+        "title": "science",
+        "author": "hc verma ",
+        "isbn": "fdh",
+        "status": "available"
+    },
+    {
+        "title": "harry potter ",
+        "author": "J.K. Rowling",
+        "isbn": "978-0747532743",
+        "status": "available"
+    }
+]
